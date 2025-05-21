@@ -34,5 +34,6 @@ The Agile mindset and Scrum process.
 The collaborator’s typical workflow in their company.  
 
 Concepts like Proof of Concept (POC), tickets, sprints, Slack, Gantt charts, daily demos, and “recipes.”
+
 We allocated sufficient time to establish an effective planning meeting.
 
